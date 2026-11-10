@@ -1,4 +1,4 @@
-# Mingyo Random Art
+# Random Art
 
 Generative images built from random mathematical expressions.
 
