@@ -19,7 +19,7 @@ Every expression is saved as a text file, so any image can be re-edited later fr
 You need Python 3.9 or newer.
 
 ```bash
-git clone https://github.com/<your-username>/mingyo-random-art.git
+git clone https://github.com/mingyoheo/mingyo-random-art.git
 cd mingyo-random-art
 pip install -r requirements.txt
 python solution.py
